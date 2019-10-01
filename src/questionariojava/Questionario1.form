@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="86" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="83" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="134" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg2" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg12" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg13" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Perg6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Perg7" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="Perg16" alignment="1" min="-2" pref="305" max="-2" attributes="0"/>
+                              <Component id="Perg17" alignment="1" min="-2" pref="305" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg9" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg19" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="Perg1" min="-2" pref="473" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg11" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg4" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg14" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg5" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg15" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg8" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace pref="119" max="32767" attributes="0"/>
+                          <Component id="Perg18" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="VoltarQ1" min="-2" pref="92" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="Perg10" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Perg20" min="-2" pref="305" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="3" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg11" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg12" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg3" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg13" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg14" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg5" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg15" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg6" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg16" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg7" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg17" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg8" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg18" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg9" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg19" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Perg10" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="Perg20" alignment="3" min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                  <Component id="VoltarQ1" min="-2" pref="35" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Perguntas cadastradas no sistema"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Respostas"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="VoltarQ1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VoltarQ1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1 ) Qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o em rela&#xe7;&#xe3;o ao atual desenvolvimento da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2 ) Como voc&#xea; considera o tr&#xe2;nsito da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="3 ) Em rela&#xe7;&#xe3;o aos inventimentos com sa&#xfa;de sua opini&#xe3;o &#xe9;?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4 ) Qual seu grau de satisfa&#xe7;&#xe3;o em rela&#xe7;&#xe3;o infraestrutura da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="5 ) Sua opini&#xe3;o em rela&#xe7;&#xe3;o a educa&#xe7;&#xe3;o p&#xfa;blica &#xe9;?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="6 ) Como voc&#xea; considera a conserva&#xe7;&#xe3;o dos patrim&#xf4;nios p&#xfa;blicos de nossa cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="7 ) Quanto a disponibilidade de vagas de empregos qual sua opini&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8 ) Em rela&#xe7;&#xe3;o ao com&#xe9;rcio, considerando a variedade e qualidade de produtos, qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="9 ) Considerando o entretenimento qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="10 ) Como voc&#xea; considera a seguran&#xe7;a p&#xfa;blica de nossa cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg11">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg14">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg15">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg16">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg17">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg18">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg19">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg20">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muito Bom // Bom // M&#xe9;dio // Ruim // Muito Ruim"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

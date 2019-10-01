@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="Perg2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg1" alignment="0" min="-2" pref="473" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="218" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="R1" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Component id="Perg3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="Perg4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="Perg10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="R5" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R4" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R10" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="258" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Component id="R2R" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R1R" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R3R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R4R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R5R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R6R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R7R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R8R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R9R" alignment="1" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R10R" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="175" max="-2" attributes="0"/>
+                                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                          <Component id="jLabel2" min="-2" pref="148" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R1B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R2B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R3B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R4B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R5B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R6B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R7B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R8B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R9B" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R10B" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="R1M" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R2M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R3M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R4M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R5M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R6M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R7M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R8M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R9M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="R10M" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="61" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="45" pref="54" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="R2MR" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R1MR" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R3MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R4MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R5MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R6MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R7MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R8MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R9MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="R10MR" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="65" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="VoltarQ" min="-2" pref="97" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="Entrevistados" min="-2" pref="296" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="123" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" pref="31" max="-2" attributes="0"/>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" pref="24" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg1" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R1" alignment="3" min="-2" pref="19" max="-2" attributes="0"/>
+                              <Component id="R1B" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg2" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R2B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R2M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R2R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R2MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg3" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R3B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R3M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R3R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R3MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg4" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R4" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R4B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R4M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R4R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R4MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg5" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R5" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R5B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R5M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R5R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R5MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg6" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R6B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R6M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R6R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R6MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg7" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R7B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R7M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R7R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R7MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg8" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R8B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R8M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R8R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R8MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg9" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R9B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R9M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R9R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R9MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="Perg10" alignment="3" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="R10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R10B" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R10M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R10R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R10MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="R1M" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R1R" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="R1MR" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="VoltarQ" alignment="3" min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="Entrevistados" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Perguntas da pesquisa"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="VoltarQ">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Voltar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="VoltarQActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="3 ) Em rela&#xe7;&#xe3;o aos inventimentos com sa&#xfa;de sua opini&#xe3;o &#xe9;?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="4 ) Qual seu grau de satisfa&#xe7;&#xe3;o em rela&#xe7;&#xe3;o infraestrutura da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="5 ) Sua opini&#xe3;o em rela&#xe7;&#xe3;o a educa&#xe7;&#xe3;o p&#xfa;blica &#xe9;?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="6 ) Como voc&#xea; considera a conserva&#xe7;&#xe3;o dos patrim&#xf4;nios p&#xfa;blicos de nossa cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="7 ) Quanto a disponibilidade de vagas de empregos qual sua opini&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="8 ) Em rela&#xe7;&#xe3;o ao com&#xe9;rcio, considerando a variedade e qualidade de produtos, qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="9 ) Considerando o entretenimento qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="10 ) Como voc&#xea; considera a seguran&#xe7;a p&#xfa;blica de nossa cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="1 ) Qual seu n&#xed;vel de satisfa&#xe7;&#xe3;o em rela&#xe7;&#xe3;o ao atual desenvolvimento da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Perg2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="2 ) Como voc&#xea; considera o tr&#xe2;nsito da cidade?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Resposta mais votada"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+          <Events>
+            <EventHandler event="ancestorAdded" listener="javax.swing.event.AncestorListener" parameters="javax.swing.event.AncestorEvent" handler="R1AncestorAdded"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R2B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R1B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R3B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R4B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R5B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R6B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R7B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R8B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R9B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R10B">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R1M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R2M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R3M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R4M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R5M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R6M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R7M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R8M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R9M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R10M">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R1R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R2R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R3R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R4R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R5R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R6R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R7R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R8R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R9R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R10R">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R1MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R2MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R3MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R4MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R5MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R6MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R7MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R8MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R9MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="R10MR">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel3"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Muito Bom"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Bom"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="M&#xe9;dio"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Muito Ruim"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Entrevistados">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Total de Entrevistados:"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
